@@ -808,7 +808,6 @@ export default class DEditor extends Component {
           />
         </div>
       </div>
-
       <DEditorPreview
         @preview={{this.preview}}
         @forcePreview={{this.forcePreview}}
